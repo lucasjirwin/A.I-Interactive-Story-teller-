@@ -6,4 +6,5 @@ Usage: /Library/Frameworks/Python.framework/Versions/3.8/bin/streamlit run funcx
 
 User Interface:
 
-<img width="480" alt="Venetian general example " src="https://github.com/lucasjirwin/A.I-Interactive-Story-teller-/assets/76210253/eb93505f-2701-458e-aae6-5a6ccf1e5da3">
+
+<img width="634" alt="Venetian general new" src="https://github.com/lucasjirwin/A.I-Interactive-Story-teller-/assets/76210253/1b76d2b3-12d3-41f3-bcde-889bb0807065">
