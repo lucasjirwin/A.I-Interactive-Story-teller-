@@ -7,4 +7,5 @@ Usage: [Run in your terminal] /Library/Frameworks/Python.framework/Versions/3.8/
 User Interface:
 
 
-<img width="634" alt="Venetian general new" src="https://github.com/lucasjirwin/A.I-Interactive-Story-teller-/assets/76210253/1b76d2b3-12d3-41f3-bcde-889bb0807065">
+
+<img width="503" alt="Venetian general continue" src="https://github.com/lucasjirwin/A.I-Interactive-Story-teller-/assets/76210253/404aa6ea-f90a-4903-8287-aefbf7443ed4">
